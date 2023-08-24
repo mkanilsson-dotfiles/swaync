@@ -387,7 +387,7 @@
   background: @noti-bg-hover;
 }
 
-.widget-label {
+.widget-label>label {
   font-size: 32px;
 }
 .widget-title {

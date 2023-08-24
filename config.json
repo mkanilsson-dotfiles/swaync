@@ -47,6 +47,7 @@
     }
   },
   "widgets": [
+    "label",
     "inhibitors",
     "buttons-grid",
     "mpris",
@@ -89,8 +90,8 @@
       "text": "Do Not Disturb"
     },
     "label": {
-      "max-lines": 5,
-      "text": "Label Text"
+      "max-lines": 1,
+      "text": "Controll Center"
     },
     "mpris": {
       "image-size": 96,
