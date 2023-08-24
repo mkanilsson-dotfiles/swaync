@@ -73,7 +73,7 @@
         },
         {
           "label": "",
-          "command": "loginctl terminate-session ${XDG_SESSION_ID-}"
+          "command": "pkill -u $(who | awk '{ print $1; }')"
         },
         {
           "label": "",
