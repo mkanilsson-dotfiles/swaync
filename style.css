@@ -27,6 +27,10 @@
 
 @define-color bg-selected #458588;
 
+* {
+  font-family: "JetBrains Mono";
+}
+
 .notification-row {
   outline: none;
 }
